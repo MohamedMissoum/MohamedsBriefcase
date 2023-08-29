@@ -1,0 +1,7 @@
+Your first task dives more in depth with branches and your first python script code.
+
+1. create a feature branch from develop called "feature/create-hello-world-script"
+2. in that feature branch you are to push up a file into a new folder called "MohammedHomework1". 
+3. the file's name is helloworld.py
+4. in the helloworld.py you are to simply output "hello world"
+5. After this is created you should create a pull request and have me review it :) by sending me the pull request link.
