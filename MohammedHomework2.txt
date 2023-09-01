@@ -1,0 +1,4 @@
+1. Create another branch called "feature/MohammedHomework2"
+2. In That folder create another file called "echo.py"
+3. In the file echo.py when you run the file it should take user input and simply echo it back out to the terminal
+4. Create a PR (Pull Request) on this branch and let me review it
